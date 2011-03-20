@@ -1,0 +1,30 @@
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeEvolution.exe.config
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeEvolution.exe
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeEvolution.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\log4net.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\log4net.xml
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatLib.xml
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\obj\x86\Debug\TicTacToeEvolution.exe
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\obj\x86\Debug\TicTacToeEvolution.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatDomains.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\tictactoe.config.xml
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeLib.pdb
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\tictactoe.config.xml
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeEvolution.exe.config
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeEvolution.exe
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeEvolution.pdb
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\log4net.dll
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatDomains.dll
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatLib.dll
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeLib.dll
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\TicTacToeLib.pdb
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\log4net.xml
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatLib.pdb
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatLib.xml
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\obj\x86\Debug\TicTacToeEvolution.exe
+C:\temp\coevolution\NeatTicTacToe\TicTacToeEvolution\obj\x86\Debug\TicTacToeEvolution.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2010\Projects\NeatTicTacToe\TicTacToeEvolution\bin\Debug\SharpNeatLib.pdb

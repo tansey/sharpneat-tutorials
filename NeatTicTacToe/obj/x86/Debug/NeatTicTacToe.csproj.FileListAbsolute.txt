@@ -1,0 +1,46 @@
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\NeatTicTacToe.exe
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\NeatTicTacToe.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.GameForm.resources
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.Properties.Resources.resources
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.exe
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\NeatTicTacToe.exe.config
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\tictactoe.config.xml
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeEvolution.exe
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\log4net.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatDomains.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeEvolution.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeLib.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatLib.xml
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\log4net.xml
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\tictactoe.config.xml
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\NeatTicTacToe.exe.config
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\NeatTicTacToe.exe
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\NeatTicTacToe.pdb
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatDomains.dll
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatLib.dll
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeEvolution.exe
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeLib.dll
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\log4net.dll
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeEvolution.pdb
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeLib.pdb
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatLib.pdb
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatLib.xml
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\bin\Debug\log4net.xml
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.GameForm.resources
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.Properties.Resources.resources
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.exe
+C:\temp\coevolution\NeatTicTacToe\NeatTicTacToe\obj\x86\Debug\NeatTicTacToe.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\SharpNeatLib.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeHyperNeat.exe
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeCoevolution.exe
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeHyperNeat.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2010\Projects\NeatTicTacToe\NeatTicTacToe\bin\Debug\TicTacToeCoevolution.pdb

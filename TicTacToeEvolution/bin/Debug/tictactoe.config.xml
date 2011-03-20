@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <PopulationSize>150</PopulationSize>
+  <SpecieCount>10</SpecieCount>
+  <Activation>
+    <Scheme>FixedIters</Scheme>
+    <Iters>2</Iters>
+  </Activation>
+  <ComplexityRegulationStrategy>Absolute</ComplexityRegulationStrategy>
+  <ComplexityThreshold>50</ComplexityThreshold>
+  <Description>
+    TicTacToe Evolution - The goal is to evolve an AI to play TicTacToe.
+    Individuals are evaluated against a random player and an optimal player for
+    10 games each. Scoring is:
+    
+    Loss = 0
+    Draw = 1
+    Win = 10
+    
+    Fitness is the sum of the scores.
+  </Description>
+
+</Config>

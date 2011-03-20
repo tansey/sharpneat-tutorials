@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b2bb5e34-330e-4d8b-bc8c-39a49b2426a2" name="Wesley@EIN 2010-07-13 19:13:31" runUser="EIN\Wesley" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8bca6ea7-35da-472b-baba-f9df88485fac">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Wesley_EIN 2010-07-13 19_13_31">
+      <DeploymentItem filename="c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-07-13T19:13:31.9531250-07:00" queuing="2010-07-13T19:13:31.9687500-07:00" start="2010-07-13T19:13:31.9843750-07:00" finish="2010-07-13T19:13:32.5781250-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetBoardFromStringTest" storage="c:\documents and settings\wesley\my documents\visual studio 2010\projects\neattictactoe\testtictactoe\bin\debug\testtictactoe.dll" id="ff75265a-ec4b-b302-a3d6-1a4c1f15bf84">
+      <Execution id="21291a77-b0be-46e1-8802-095e6d81c0b9" />
+      <TestMethod codeBase="c:/documents and settings/wesley/my documents/visual studio 2010/Projects/NeatTicTacToe/TestTicTacToe/bin/Debug/TestTicTacToe.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTicTacToe.TicTacToeGameTest, TestTicTacToe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetBoardFromStringTest" />
+    </UnitTest>
+    <UnitTest name="GetWinnerTest" storage="c:\documents and settings\wesley\my documents\visual studio 2010\projects\neattictactoe\testtictactoe\bin\debug\testtictactoe.dll" id="83eebd0a-4a1d-4837-ea3d-59e35bb2f4bf">
+      <Execution id="4c8c36fd-a331-4fbd-b451-c6c36f679620" />
+      <TestMethod codeBase="c:/documents and settings/wesley/my documents/visual studio 2010/Projects/NeatTicTacToe/TestTicTacToe/bin/Debug/TestTicTacToe.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTicTacToe.TicTacToeGameTest, TestTicTacToe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetWinnerTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="83eebd0a-4a1d-4837-ea3d-59e35bb2f4bf" executionId="4c8c36fd-a331-4fbd-b451-c6c36f679620" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ff75265a-ec4b-b302-a3d6-1a4c1f15bf84" executionId="21291a77-b0be-46e1-8802-095e6d81c0b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4c8c36fd-a331-4fbd-b451-c6c36f679620" testId="83eebd0a-4a1d-4837-ea3d-59e35bb2f4bf" testName="GetWinnerTest" computerName="EIN" duration="00:00:00.0161953" startTime="2010-07-13T19:13:31.9843750-07:00" endTime="2010-07-13T19:13:32.2500000-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c8c36fd-a331-4fbd-b451-c6c36f679620">
+    </UnitTestResult>
+    <UnitTestResult executionId="21291a77-b0be-46e1-8802-095e6d81c0b9" testId="ff75265a-ec4b-b302-a3d6-1a4c1f15bf84" testName="GetBoardFromStringTest" computerName="EIN" duration="00:00:00.0160338" startTime="2010-07-13T19:13:32.2500000-07:00" endTime="2010-07-13T19:13:32.2812500-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="21291a77-b0be-46e1-8802-095e6d81c0b9">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;N&gt;. Actual:&lt;O&gt;. </Message>
+          <StackTrace>   at TestTicTacToe.TicTacToeGameTest.AssertEqualBoards(SquareTypes[,] expected, SquareTypes[,] actual) in c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\TicTacToeGameTest.cs:line 97
+   at TestTicTacToe.TicTacToeGameTest.GetBoardFromStringTest() in c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\TicTacToeGameTest.cs:line 90
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

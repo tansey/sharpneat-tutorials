@@ -1,0 +1,14 @@
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\bin\Debug\TicTacToeLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\bin\Debug\TicTacToeLib.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.pdb
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.dll
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.pdb
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\bin\Debug\TicTacToeLib.dll
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\bin\Debug\TicTacToeLib.pdb
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.dll
+C:\temp\coevolution\NeatTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.pdb

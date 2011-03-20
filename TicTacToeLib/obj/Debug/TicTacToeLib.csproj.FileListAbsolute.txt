@@ -1,0 +1,10 @@
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.pdb
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeLib\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.dll
+c:\documents and settings\wesley\my documents\visual studio 2010\Projects\NeatTicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.pdb
+C:\temp\coevolution\NeatTicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.dll
+C:\temp\coevolution\NeatTicTacToe\TicTacToeLib\bin\Debug\TicTacToeLib.pdb
+C:\temp\coevolution\NeatTicTacToe\TicTacToeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\coevolution\NeatTicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.dll
+C:\temp\coevolution\NeatTicTacToe\TicTacToeLib\obj\Debug\TicTacToeLib.pdb
