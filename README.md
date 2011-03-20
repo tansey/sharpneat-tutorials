@@ -1,7 +1,5 @@
-The NashCoding SharpNEAT 2 Tutorials
+The [NashCoding](http://nashcoding.com) SharpNEAT 2 Tutorials by Wesley Tansey
 ====================================
-by Wesley Tansey
-----------------
 
 This code is for the tutorial series on how to use the C# framework SharpNEAT to evolve artificial neural networks. The tutorial contains several projects, each demonstrating a different approach. I assume you already have a basic understand of how neural networks and genetic algorithms work.
 
