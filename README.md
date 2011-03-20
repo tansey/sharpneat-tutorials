@@ -12,4 +12,5 @@ Part 1 walks you through the basics of how to setup a new experiment, define a f
 Part 2 creates a competitive coevolution experiment where the networks evolve by playing against themselves.
 
 [Path 3: HyperNEAT](http://www.nashcoding.com/2010/10/29/tutorial-%E2%80%93-evolving-neural-networks-with-sharpneat-2-part-3/)
+-------------------------------------
 Part 3 demonstrates how to use the HyperNEAT algorithm to leverage the geometry of the game board.
